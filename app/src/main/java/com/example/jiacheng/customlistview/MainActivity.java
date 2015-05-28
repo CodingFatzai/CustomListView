@@ -11,14 +11,13 @@ import android.widget.ArrayAdapter;
 
 public class MainActivity extends ListActivity {
     String[] itemname = {
-            "Safari",
-            "Camera",
-            "Global",
-            "FireFox",
-            "UC Browser",
-            "Android Folder",
-            "VLC Player",
-            "Cold War"
+            "jiacheng",
+            "CableWolf",
+            "yoting",
+            "yuri",
+            "penguin",
+            "tofu",
+            "V-ru"
     };
 
     @Override
